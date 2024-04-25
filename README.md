@@ -5,7 +5,8 @@ Mockup selecionado para Desenvolvimento
 <br>
 https://br.freepik.com/vetores-gratis/aplicativo-de-rastreamento-de-metas-e-habitos_9468173.htm#fromView=search&page=5&position=28&uuid=338610c7-6e5a-4ef3-a733-36ffedc80179
 
-![image](https://github.com/lucashenrique505/flutter_goals_and_habits/assets/130518705/61fc9799-fe1e-4474-a5c7-2f75486562a3)
+![image](https://github.com/lucas-catolica-sc/flutter_goals_and_habits/assets/142949860/d301e64b-f4bc-46e4-9f8d-6d397903fb8d)
+
 <br>
 
 Escopo:<br>
